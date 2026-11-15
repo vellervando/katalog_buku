@@ -30,7 +30,7 @@ Unduh (clone) repositori ini atau ekstrak folder proyek aplikasi ke komputer And
 
 ### Tangkapan Layar
 **Tampilan Sebelum Interaksi**
-<img width="1292" height="932" alt="image" src="https://github.com/user-attachments/assets/b1a3ec4f-6f79-464b-a5dd-3f9396d3523a" />
+<img width="1292" height="1032" alt="Screenshot 2026-11-15 151518" src="https://github.com/user-attachments/assets/ce58e3ed-2728-4c24-8b7c-04ba35b1f781" />
 
 **Tampilan Setelah Interaksi**
 <img width="1292" height="932" alt="Screenshot 2026-11-15 151540" src="https://github.com/user-attachments/assets/8c0d38d1-93ee-40ae-9fad-f4f6cdbd54e9" />
