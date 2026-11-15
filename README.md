@@ -51,3 +51,9 @@ Buka layar perintah (Terminal / Command Prompt), masuk ke dalam folder utama pro
 
 flutter pub get
 flutter run
+
+### Link Laporan 
+https://docs.google.com/document/d/1nkd9Mf-nfmMPpLNMgWzxFoA_q7v7xEyO8UzBj1WuneQ/edit?usp=sharing 
+
+### Link Vidio
+
