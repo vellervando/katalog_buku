@@ -28,6 +28,25 @@ Siapkan perangkat yang sudah terpasang dan terkonfigurasi dengan sistem Flutter.
 
 Unduh (clone) repositori ini atau ekstrak folder proyek aplikasi ke komputer Anda.
 
+### Tangkapan Layar
+**Tampilan Sebelum Interaksi**
+<img width="1292" height="932" alt="image" src="https://github.com/user-attachments/assets/b1a3ec4f-6f79-464b-a5dd-3f9396d3523a" />
+
+**Tampilan Setelah Interaksi**
+<img width="1292" height="932" alt="Screenshot 2026-11-15 151540" src="https://github.com/user-attachments/assets/8c0d38d1-93ee-40ae-9fad-f4f6cdbd54e9" />
+
+**Tampilan Layar di Perbesar**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c4932697-daa0-40d3-969b-79911f53e5d3" />
+
+
+### Fitur yang Belum Berfungsi
+Seluruh fitur utama sesuai spesifikasi tugas telah berfungsi dengan baik. (Fitur penambahan/penghapusan buku secara dinamis belum diimplementasikan karena data bersifat statis pada booksProvider).
+
+### Referensi & Keterangan Penggunaan AI
+1. Dokumentasi Resmi Flutter: https://docs.flutter.dev/
+2. Dokumentasi Resmi Riverpod: https://riverpod.dev/
+3. Menggunakan bantuan AI generatif untuk menyusun kerangka awal kode Riverpod dan contoh struktur dokumentasi README.md, yang kemudian disesuaikan, diuji, dan dipahami sepenuhnya oleh mahasiswa.
+
 Buka layar perintah (Terminal / Command Prompt), masuk ke dalam folder utama proyek, lalu jalankan dua perintah berikut secara berurutan untuk mengunduh komponen yang dibutuhkan dan menjalankan aplikasinya:
 
 flutter pub get
