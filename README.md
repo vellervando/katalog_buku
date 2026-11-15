@@ -45,7 +45,7 @@ Seluruh fitur utama sesuai spesifikasi tugas telah berfungsi dengan baik. (Fitur
 ### Referensi & Keterangan Penggunaan AI
 1. Dokumentasi Resmi Flutter: https://docs.flutter.dev/
 2. Dokumentasi Resmi Riverpod: https://riverpod.dev/
-3. Menggunakan bantuan AI generatif untuk menyusun kerangka awal kode Riverpod dan contoh struktur dokumentasi README.md, yang kemudian disesuaikan, diuji, dan dipahami sepenuhnya oleh mahasiswa.
+3. Menggunakan bantuan AI generatif untuk menyusun kerangka awal kode Riverpod dan contoh struktur dokumentasi README.md.
 
 Buka layar perintah (Terminal / Command Prompt), masuk ke dalam folder utama proyek, lalu jalankan dua perintah berikut secara berurutan untuk mengunduh komponen yang dibutuhkan dan menjalankan aplikasinya:
 
