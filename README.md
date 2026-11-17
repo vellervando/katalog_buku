@@ -56,4 +56,4 @@ flutter run
 https://docs.google.com/document/d/1nkd9Mf-nfmMPpLNMgWzxFoA_q7v7xEyO8UzBj1WuneQ/edit?usp=sharing 
 
 ### Link Vidio
-
+https://youtu.be/Es0oKCxi0vM?si=pkmXhvUmCqqX6re8 
